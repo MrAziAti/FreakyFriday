@@ -1,0 +1,3 @@
+# FreakyFriday
+
+Skoleprosjekt
