@@ -9,6 +9,7 @@ header{
     background-size: cover;
     background-position: center;
     
+    
 }
 ul{
     float: right;
@@ -23,7 +24,6 @@ ul li a{
     color: white;
     padding: 5px 20px;
     border: 1px solid #fff;
-    transition: 0.6s ease;
 }
 ul li a:hover{
     background-color: #fff;
@@ -43,7 +43,7 @@ ul li a:hover{
     margin-bottom: 15px;
     border-radius: 20px;
     padding: 20px;
-    color: whitesmoke;
+    color:whitesmoke;
     
     text-align: center;
     font-size: 20px;
